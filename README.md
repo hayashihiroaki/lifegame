@@ -21,7 +21,9 @@
 自身を含む周囲９マスの１の個数をカウントする。
 
 - 要素が1の配列をnumpy.onesで生成。
-- signal.correlate2dで2つの2次元配列をふたつの配列の類似性を確認する。　　sameで、同じ部分を合計し中心に出力。
+- signal.correlate2dで2つの2次元配列をふたつの配列の類似性を確認する。
+- sameで、同じ部分を合計し中心に出力。
+- boundary="wrap"で配列の上下左右を繋げる。
 
 ### 次の世代
 
@@ -51,4 +53,4 @@
 - f：早く
 
 ### GIF
-https://gyazo.com/36b94a5341ee9e08b7caee9f497bf63c.gif
+1[](https://gyazo.com/36b94a5341ee9e08b7caee9f497bf63c.gif)
