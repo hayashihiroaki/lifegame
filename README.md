@@ -32,4 +32,4 @@
 - f：早く
 
 ### GIF
-https://gyazo.com/36b94a5341ee9e08b7caee9f497bf63c.gif
+https://gyazo.com/36b94a5341ee9e08b7caee9f497bf63c
