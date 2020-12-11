@@ -2,7 +2,7 @@
 
 ###  環境構築
 
-- python,numpy,scipy,OpenCVをインストール
+- python3,numpy,scipy,OpenCVをインストール
 
 ### 初期設定
 
@@ -23,6 +23,8 @@
 
 
 ### 操作
+
+- python3 life.py　を実行すると、OpenCVの画像表示ウィンドウが立ち上がり、リアルタイムで世代が進む様子を見られます。
 
 - r ：リセット
 - q または Esc： 終了
